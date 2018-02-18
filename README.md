@@ -3,7 +3,7 @@
 simple todo app using React.
 
 # to run
-`npm start`
+install necessary modules and `npm start`
 
 # build
 `yarn build`
