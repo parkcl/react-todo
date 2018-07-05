@@ -3,7 +3,7 @@
 simple todo app using React.
 
 # to run
-assuming you have node_modules dependencies, install necessary modules and `npm start`; otherwise, `yarn install; npm start`
+install necessary modules (e.g. `yarn install`) then `npm start`.
 
 # build
 `yarn build`
